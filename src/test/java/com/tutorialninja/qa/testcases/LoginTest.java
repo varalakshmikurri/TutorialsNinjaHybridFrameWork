@@ -18,7 +18,7 @@ import com.tutorialsninja.qa.base.Base;
 public class LoginTest extends Base{
 	
 	public LoginTest()
-	{
+	{  
 		super();
 	}
 	
