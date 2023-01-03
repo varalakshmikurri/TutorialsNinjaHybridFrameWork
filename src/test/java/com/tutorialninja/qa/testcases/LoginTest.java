@@ -13,11 +13,12 @@ import com.tutorials.qa.pageobjects.LoginPage;
 import com.tutorials.qa.utils.Utilities;
 import com.tutorialsninja.qa.base.Base;
 
+//login test cases
 
 public class LoginTest extends Base{
 	
 	public LoginTest()
-	{
+	{  
 		super();
 	}
 	
